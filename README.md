@@ -1,4 +1,4 @@
-# About Me:
+# 💫 About Me:
 👋 Hi, I'm Anil Kumar Adapa<br><br>💻 I'm a Computer Science student passionate about building real-world applications  <br>🚀 Currently working on full-stack web development projects  <br>🤝 Looking to collaborate on innovative and impactful tech projects  <br>🧠 Currently learning Data Structures & Algorithms and Spring Boot  <br>💬 Ask me about Java, DSA, Web Development, and Problem Solving  <br>⚡ Fun fact: I enjoy turning ideas into working applications and continuously improving my skills
 
 
