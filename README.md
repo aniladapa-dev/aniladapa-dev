@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I'm Anil Kumar Adapa  
 
 💻 Aspiring Software Engineer passionate about building scalable real-world applications  
