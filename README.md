@@ -41,10 +41,10 @@ Graph-based intelligence system using Neo4j
 
 ## 🧠 DSA & Problem Solving
 
-✔ Solved 800+ problems across platforms  
-✔ LeetCode: 200+  
+✔ Solved 1000+ problems across platforms  
+✔ LeetCode: 350+  
 ✔ CodeChef: 250+  
-✔ TUF+: 350+  
+✔ TUF+: 400+  
 ✔ Strong in Graphs, Dynamic Programming, Trees  
 
 ---
