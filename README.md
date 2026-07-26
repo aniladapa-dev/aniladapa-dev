@@ -18,31 +18,36 @@
 ## 🚀 Featured Projects
 
 🔹 **Employee Management System**  
-Full-stack cloud-based application using Spring Boot, React, and MySQL  
-✔ JWT Authentication & Role-Based Access Control (RBAC)  
-✔ Cloudinary integration for document management  
-✔ Deployed on Render & Vercel  
-✔ Real-time analytics dashboard  
+Production-ready full-stack employee management platform built with Spring Boot, React, and MySQL.
+
+✔ JWT Authentication & Role-Based Access Control (RBAC)
+✔ 30+ REST APIs with layered architecture using Spring Data JPA
+✔ Cloudinary integration with signed URLs for secure document management
+✔ Deployed on Render & Vercel with interactive analytics dashboard 
 
 🔹 **Fitness Microservices App**  
-Distributed microservices system using Spring Boot  
-✔ 6 microservices architecture  
-✔ RabbitMQ for asynchronous communication  
-✔ PostgreSQL & MongoDB integration  
-✔ Keycloak for authentication  
+Cloud-native fitness platform built using a distributed Spring Boot microservices architecture.
+
+✔ 6-service microservices architecture with Eureka service discovery
+✔ RabbitMQ for asynchronous event-driven communication
+✔ Keycloak (OAuth2/PKCE) for centralized authentication & authorization
+✔ Containerized with Docker and deployed on Kubernetes, orchestrating 11+ services
 
 🔹 **MegaBlog**  
-Full-stack blogging platform using Spring Boot, React, and PostgreSQL  
-✔ JWT & Google OAuth2 authentication with Spring Security  
-✔ Cloudinary-powered media management and interactive social features  
+Full-stack blogging platform built with Spring Boot, React, and PostgreSQL.
+
+✔ 25+ RESTful APIs following a layered architecture
+✔ Spring Security with JWT & Google OAuth2 authentication
+✔ Cloudinary-powered media management with role-based access control
 ✔ Dockerized backend and deployed on Render & Vercel
 
 🔹 **IntelliCase – AI Investigation System**  
-Graph-based intelligence system using Neo4j  
-✔ OCR + NLP for entity extraction  
-✔ Relationship analysis using graph database  
-✔ Interactive visualization with Cytoscape.js  
+AI-powered investigation platform for relationship analysis using graph databases.
 
+✔ Neo4j graph database for entity relationship modeling
+✔ OCR + NLP pipeline for automated entity extraction
+✔ Interactive network visualization using Cytoscape.js
+✔ Graph-based intelligence analysis for complex case investigations
 ---
 
 ## 🧠 DSA & Problem Solving
