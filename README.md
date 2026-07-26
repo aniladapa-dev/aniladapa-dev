@@ -60,7 +60,7 @@ AI-powered investigation platform for graph-based intelligence analysis.
 ## 🧠 DSA & Problem Solving
 
 ✔ Solved 1000+ problems across platforms  
-✔ LeetCode: 350+  
+✔ LeetCode: 400+  
 ✔ CodeChef: 250+  
 ✔ TUF+: 400+  
 ✔ Strong in Graphs, Dynamic Programming, Trees  
