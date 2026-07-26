@@ -17,37 +17,44 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Employee Management System**  
+### 🔹 Employee Management System
 Production-ready full-stack employee management platform built with Spring Boot, React, and MySQL.
 
-✔ JWT Authentication & Role-Based Access Control (RBAC)
-✔ 30+ REST APIs with layered architecture using Spring Data JPA
-✔ Cloudinary integration with signed URLs for secure document management
-✔ Deployed on Render & Vercel with interactive analytics dashboard 
+- ✔ JWT Authentication & Role-Based Access Control (RBAC)
+- ✔ 30+ REST APIs following a layered architecture using Spring Data JPA
+- ✔ Cloudinary integration with signed URLs for secure document management
+- ✔ Deployed on Render & Vercel with an interactive analytics dashboard
 
-🔹 **Fitness Microservices App**  
+---
+
+### 🔹 Fitness Microservices Application
 Cloud-native fitness platform built using a distributed Spring Boot microservices architecture.
 
-✔ 6-service microservices architecture with Eureka service discovery
-✔ RabbitMQ for asynchronous event-driven communication
-✔ Keycloak (OAuth2/PKCE) for centralized authentication & authorization
-✔ Containerized with Docker and deployed on Kubernetes, orchestrating 11+ services
+- ✔ 6-service microservices architecture with Eureka service discovery
+- ✔ RabbitMQ for asynchronous event-driven communication
+- ✔ Keycloak (OAuth2/PKCE) for centralized authentication & authorization
+- ✔ Containerized with Docker and deployed on Kubernetes, orchestrating 11+ services
 
-🔹 **MegaBlog**  
+---
+
+### 🔹 MegaBlog
 Full-stack blogging platform built with Spring Boot, React, and PostgreSQL.
 
-✔ 25+ RESTful APIs following a layered architecture
-✔ Spring Security with JWT & Google OAuth2 authentication
-✔ Cloudinary-powered media management with role-based access control
-✔ Dockerized backend and deployed on Render & Vercel
+- ✔ 25+ RESTful APIs following a layered architecture
+- ✔ Spring Security with JWT & Google OAuth2 authentication
+- ✔ Cloudinary-powered media management with role-based access control
+- ✔ Dockerized backend and deployed on Render & Vercel
 
-🔹 **IntelliCase – AI Investigation System**  
-AI-powered investigation platform for relationship analysis using graph databases.
+---
 
-✔ Neo4j graph database for entity relationship modeling
-✔ OCR + NLP pipeline for automated entity extraction
-✔ Interactive network visualization using Cytoscape.js
-✔ Graph-based intelligence analysis for complex case investigations
+### 🔹 IntelliCase – AI Investigation System
+AI-powered investigation platform for graph-based intelligence analysis.
+
+- ✔ Neo4j graph database for entity relationship modeling
+- ✔ OCR + NLP pipeline for automated entity extraction
+- ✔ Interactive relationship visualization using Cytoscape.js
+- ✔ Graph-based intelligence analysis for complex investigations
+
 ---
 
 ## 🧠 DSA & Problem Solving
