@@ -31,6 +31,12 @@ Distributed microservices system using Spring Boot
 ✔ PostgreSQL & MongoDB integration  
 ✔ Keycloak for authentication  
 
+🔹 **MegaBlog**  
+Full-stack blogging platform using Spring Boot, React, and PostgreSQL  
+✔ JWT & Google OAuth2 authentication with Spring Security  
+✔ Cloudinary-powered media management and interactive social features  
+✔ Dockerized backend and deployed on Render & Vercel
+
 🔹 **IntelliCase – AI Investigation System**  
 Graph-based intelligence system using Neo4j  
 ✔ OCR + NLP for entity extraction  
